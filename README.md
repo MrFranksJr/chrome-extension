@@ -21,6 +21,7 @@ Extra goals that I achieved:
 * When hovering over the items, you can delete items one-by-one. It was a little bit tricky, but managed in the end.
 * An automated check for HTTP or HTTPS in the input field. Because this extension runs locally, and when you leave out HTTP, the link posted in the list would actually not work correctly. So, before adding the Input value to the list, HTTPS is added when HTTP or HTTPS is missing from the string
 * Added a function to detect the return key. It just makes life easier to just hit return and add your item to the list!
+
 ![screenshot of the extension](https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/chrome-extension/my-shopping-list.png)
 
 
