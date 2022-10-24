@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "My Shopping List",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "images/icon.png"
+    },
+    "permissions": [ 
+        "tabs"
+    ],
+    "icons": { "16": "images/icon.png",
+           "48": "images/icon.png",
+          "128": "images/icon.png" }
+}
